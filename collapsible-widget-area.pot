@@ -1,0 +1,168 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Collapsible Widget Area
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Collapsible Widget Area 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-04-03 12:09-0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: class.collapsible-widget-area.php:123
+msgid "Theme to use:"
+msgstr ""
+
+#: class.collapsible-widget-area.php:124
+msgid "Number of collapsible areas to create?"
+msgstr ""
+
+#: class.collapsible-widget-area.php:145
+msgid "Use default"
+msgstr ""
+
+#: class.collapsible-widget-area.php:169 class.collapsible-widget-area.php:201
+msgid "Collapsible Widget Area Settings"
+msgstr ""
+
+#: class.collapsible-widget-area.php:173 class.collapsible-widget-area.php:205
+msgid "Collapsible Widget Options"
+msgstr ""
+
+#: class.collapsible-widget-area.php:210 class.collapsible-widget-area.php:211
+#, php-format
+msgid "Multinetwork %s"
+msgstr ""
+
+#: class.collapsible-widget-area.php:225
+msgid "Collapsible Widget Area Options"
+msgstr ""
+
+#: class.collapsible-widget-area.php:230
+msgid ""
+"This is the settings page for the entire multi-network installation. Any "
+"options set here will act as the default for all sites; but can be "
+"overridden at the individual network level <strong>and</strong> at the "
+"individual site level."
+msgstr ""
+
+#: class.collapsible-widget-area.php:236
+msgid ""
+"This is the settings page for the entire network. Any options set here will "
+"act as the default for all sites; but can be overridden at the individual "
+"site level."
+msgstr ""
+
+#: class.collapsible-widget-area.php:252
+msgid "Save"
+msgstr ""
+
+#: class.collapsible-widget-area.php:308
+msgid "Collapsible Widget Area"
+msgstr ""
+
+#: class.collapsible-widget-area.php:311
+msgid ""
+"Drag widgets into this area in order to use them inside of the Collapsible "
+"Widget."
+msgstr ""
+
+#: class.collapsible-widget.php:33
+msgid "Collapsible Widget"
+msgstr ""
+
+#: class.collapsible-widget.php:113
+#, php-format
+msgid "Area %d"
+msgstr ""
+
+#: class.collapsible-widget.php:118
+msgid ""
+"<p>You attempted to set up a collapsible widget inside of a collapsible "
+"widget area. This could cause an infinite recursion resulting in a tear in "
+"the space-time continuum.</p> <p><strong>Please remove this widget from this "
+"sidebar</strong> in order to avoid destroying the entire universe. Thank you."
+"</p>"
+msgstr ""
+
+#: class.collapsible-widget.php:119
+msgid "Error - Attention Required"
+msgstr ""
+
+#: class.collapsible-widget.php:127
+msgid ""
+"There do not appear to be any collapsible widget sidebars configured. Please "
+"update the settings for this plugin to set up at least one collapsible "
+"widget area."
+msgstr ""
+
+#: class.collapsible-widget.php:132
+msgid "Title:"
+msgstr ""
+
+#: class.collapsible-widget.php:134
+msgid ""
+"The title is used only to differentiate between instances, and is "
+"automatically generated based on the collapsible widget area you choose "
+"below. It does not show up on the front-end anywhere."
+msgstr ""
+
+#: class.collapsible-widget.php:136
+msgid "Which collapsible widget area should be used?"
+msgstr ""
+
+#: class.collapsible-widget.php:146
+msgid "Display widgets in which manner?"
+msgstr ""
+
+#: class.collapsible-widget.php:147
+msgid "Tabs"
+msgstr ""
+
+#: class.collapsible-widget.php:148
+msgid "Accordion"
+msgstr ""
+
+#: class.collapsible-widget.php:150
+msgid "How should the panel heights be handled?"
+msgstr ""
+
+#: class.collapsible-widget.php:152
+msgid "All panels equal to tallest panel"
+msgstr ""
+
+#: class.collapsible-widget.php:154
+msgid ""
+"All panels are the same height as the initially active panel (this does not "
+"work well with fully-collapsible areas)"
+msgstr ""
+
+#: class.collapsible-widget.php:156
+msgid "Each panel limited to height of its own content"
+msgstr ""
+
+#: class.collapsible-widget.php:158
+msgid "Allow all panels to be closed at once?"
+msgstr ""
+
+#: class.collapsible-widget.php:159
+msgid ""
+"Start with all panels closed? (only applicable if the above option is "
+"checked)"
+msgstr ""
+
+#: class.collapsible-widget.php:160
+msgid "Persist active panel across page views?"
+msgstr ""
+
+#: class.collapsible-widget.php:184
+msgid "Order: "
+msgstr ""
